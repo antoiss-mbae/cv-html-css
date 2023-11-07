@@ -1,0 +1,31 @@
+/* STYLES GÉNÉRAUX */
+body {
+    background-color: aqua;
+}
+h1 { 
+    text-align: center;
+}
+h2 { 
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: underline;
+    text-align: center;
+}
+h4 { 
+    text-decoration: underline;
+}
+h5 {
+    text-decoration: underline;
+    text-align: center;
+}
+span { 
+    text-align: center;
+}
+h6 {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;  /* Supprime la soulignement des liens. */
+    display: block;   
+}
